@@ -1,0 +1,7 @@
+{
+  "name": "TalkMate",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
