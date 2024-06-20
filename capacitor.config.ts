@@ -1,12 +1,12 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'io.ionic.starter',
-  appName: 'TalkMate',
-  webDir: 'www',
-  server: {
-    androidScheme: 'https'
-  }
+    appId: 'com.talkmate.app',
+    appName: 'TalkMate',
+    webDir: 'www',
+    server: {
+        androidScheme: 'https'
+    }
 };
 
 export default config;
